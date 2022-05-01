@@ -269,7 +269,7 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
-colorscheme pop-punk
+"colorscheme pop-punk
 " To ignore plugin indent changes, instead use:
 "filetype plugin on
 "
