@@ -48,6 +48,9 @@ Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
 Plug 'junegunn/fzf.vim'
 
+Plug 'cohama/lexima.vim'
+
+
 
 call plug#end()
 
