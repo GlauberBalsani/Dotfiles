@@ -230,6 +230,8 @@ Plugin 'rust-lang/rust.vim'
 
 Plugin 'morhetz/gruvbox'
 
+Plugin 'tomasiser/vim-code-dark'
+
 Plugin 'bitc/vim-hdevtools'
 
 Plugin 'moll/vim-node'
