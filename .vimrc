@@ -206,8 +206,6 @@ Plugin 'joshdick/onedark.vim'
 
 Plugin 'raimondi/delimitmate'
 
-Plugin 'tomasiser/vim-code-dark'
-
 Plugin 'pangloss/vim-javascript'
 
 Plugin 'mateusbraga/vim-spell-pt-br'
