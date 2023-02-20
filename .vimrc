@@ -231,6 +231,8 @@ Plugin 'omnisharp/omnisharp-vim'
 
 Plugin 'joshdick/onedark.vim'
 
+Plugin 'vimsence/vimsence'
+
 Plugin 'raimondi/delimitmate'
 
 Plugin 'pangloss/vim-javascript'
